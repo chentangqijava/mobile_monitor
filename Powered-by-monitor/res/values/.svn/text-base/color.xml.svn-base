@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="black">#000000</color>
+	<color name="listitem_transparent">#00000000</color>
+	<color name="listitem_black">#ff000000</color>
+	<color name="listitem_gray">#ff9da19e</color>
+</resources>

@@ -1,0 +1,92 @@
+10
+
+dir
+12
+svn://192.168.194.113/svn_repository/common/Powered-by-monitor/src/org/monitor
+svn://192.168.194.113
+
+
+
+2013-04-28T10:00:34.920384Z
+12
+huangmingyue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ad677e00-1f4a-0341-acfc-b2e0246abacc
+
+http
+dir
+
+adapter
+dir
+
+model
+dir
+
+task
+dir
+
+cache
+dir
+
+widget
+dir
+
+loader
+dir
+
+MonitorApplication.java
+file
+
+
+
+
+2013-04-28T01:59:33.114012Z
+2047076469e0a7f1107fc46bf095f4a7
+2013-04-28T07:31:21.239262Z
+6
+chentangqi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+770
+
+activity
+dir
+
+parser
+dir
+
+util
+dir
+
